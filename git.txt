@@ -1,4 +1,12 @@
+> Actualizar
+
 git add .
 git commit -m "escribe tu mensaje"
-git push -u origin main
+git push -u origin nombre-rama
 git status
+
+> Ramas
+
+git branch nombre //Crear rama
+git branch //Mostar ramas
+git checkout nombre //Elejir otra rama
